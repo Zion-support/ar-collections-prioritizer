@@ -1,6 +1,6 @@
 # AR Collections Prioritizer — Network Links
 
-Prioritize receivables with AI risk scoring and next-best outreach.
+Prioritize collections by risk, amount and promise-to-pay signals.
 
 ## Live
 - App: https://ziontechgroup.com/ar-collections-prioritizer/
@@ -9,8 +9,8 @@ Prioritize receivables with AI risk scoring and next-best outreach.
 
 ## Related apps
 - [expense-audit-ai](https://ziontechgroup.com/expense-audit-ai/) · [GitHub](https://github.com/Zion-support/expense-audit-ai)
-- [ai-finops-suite](https://ziontechgroup.com/ai-finops-suite/) · [GitHub](https://github.com/Zion-support/ai-finops-suite)
 - [deal-desk-copilot](https://ziontechgroup.com/deal-desk-copilot/) · [GitHub](https://github.com/Zion-support/deal-desk-copilot)
+- [invoice-match-ai](https://ziontechgroup.com/invoice-match-ai/) · [GitHub](https://github.com/Zion-support/invoice-match-ai)
 
 ## Network
 - Homepage: https://ziontechgroup.com
