@@ -1,6 +1,6 @@
 # AR Collections Prioritizer — Network Links
 
-Prioritize collections by risk, amount and promise-to-pay signals.
+Rank overdue invoices by recovery likelihood and suggest next actions.
 
 ## Live
 - App: https://ziontechgroup.com/ar-collections-prioritizer/
@@ -9,8 +9,8 @@ Prioritize collections by risk, amount and promise-to-pay signals.
 
 ## Related apps
 - [expense-audit-ai](https://ziontechgroup.com/expense-audit-ai/) · [GitHub](https://github.com/Zion-support/expense-audit-ai)
-- [deal-desk-copilot](https://ziontechgroup.com/deal-desk-copilot/) · [GitHub](https://github.com/Zion-support/deal-desk-copilot)
-- [invoice-match-ai](https://ziontechgroup.com/invoice-match-ai/) · [GitHub](https://github.com/Zion-support/invoice-match-ai)
+- [ai-finops-suite](https://ziontechgroup.com/ai-finops-suite/) · [GitHub](https://github.com/Zion-support/ai-finops-suite)
+- [contract-obligation-tracker](https://ziontechgroup.com/contract-obligation-tracker/) · [GitHub](https://github.com/Zion-support/contract-obligation-tracker)
 
 ## Network
 - Homepage: https://ziontechgroup.com
